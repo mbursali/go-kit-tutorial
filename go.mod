@@ -1,4 +1,4 @@
-module gokit-example
+module github.com/mbursali/go-kit-tutorial
 
 go 1.13
 
